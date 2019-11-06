@@ -7,7 +7,7 @@ run_beer_single_aspect_rationale_3players.py
 ```
 
 **Data requirement:**
-Please download the beer review data following the paper [Rationalizing Neural Predictions](https://arxiv.org/pdf/1606.04155.pdf), then put ```data/sec_name_dict.json``` to your data directory.
+Please download the beer review data following the paper [Rationalizing Neural Predictions](https://arxiv.org/pdf/1606.04155.pdf), then put ```data/sec_name_dict.json``` to your data directory.  Also download ```glove.6B.100d``` word embedding to your data directory.
 
 **Tested environment:**
 Python 2.7.13, PyTorch: 0.3.0.post4  
