@@ -1,5 +1,5 @@
 # A Three-Player Game for Rationalization
-This repo contains the PyTorch implementation of the EMNLP 2019 paper [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://people.csail.mit.edu/tommi/papers/YCZJ_EMNLP2019.pdf).  To make this repo neat and light-weight, we release the core code and data for the newly proposed single-aspect beer review dataset (i.e. the evaluation on the left of Table 4 in the paper) for the demo purpose.   If you are interested in reproducing the exact results for other datasets, please contact us, and we are very happy to provide the code and help.  
+This repo contains the PyTorch implementation of the EMNLP 2019 paper [Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control](https://arxiv.org/pdf/1910.13294.pdf).  To make this repo neat and light-weight, we release the core code and data for the newly proposed single-aspect beer review dataset (i.e. the evaluation on the left of Table 4 in the paper) for the demo purpose.   If you are interested in reproducing the exact results for other datasets, please contact us, and we are very happy to provide the code and help.  
 
 You can start with the following entry script.
 ```bash
